@@ -193,6 +193,6 @@ Distributed under the **MIT License**. See [`LICENSE.txt`](LICENSE.txt) for full
 
 ## Contact
 
-**Hariharan R** — [hariharan2002psg@gmail.com](mailto:hariharan2002psg@gmail.com)
+**Hariharan R** — [hariharan2002psg@gmail.com](mailto:vibhorebhatneriya@gmail.com)
 
-GitHub: [github.com/Hariharan0309/customer-service-agent-adk](https://github.com/Hariharan0309/customer-service-agent-adk)
+GitHub: [github.com/Hariharan0309/customer-service-agent-adk](https://github.com/JustVibhor/AI-Powered-Customer-Service-Agent-Team)
